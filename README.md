@@ -3,7 +3,10 @@
 
 [TR] Debian/Ubuntu tabanlı sistemlere Kali Linux araçlarını indirme yapmanıza yardımcı olacaktır.
 
+- [Blog Yazısı](https://emreylmz.com/ktodo-kali-linux-araclarini-linux-dagtiminiza-indirin)
+
 [EN] It will help you to download Kali Linux tools on Debian/Ubuntu based systems.
+
 
 # Kurulum/Setup
 
